@@ -1,5 +1,8 @@
 Este es un archivo de texto
 
-hola linea 2
+hola linea 2 cambios en archivo
 
-hola linea 3
+hola linea 3 otro cambio mas
+
+
+añadimos lineas
